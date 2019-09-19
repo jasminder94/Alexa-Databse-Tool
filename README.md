@@ -20,4 +20,4 @@ It helps the machines to learn fast with time. This application is mostly data
 independent and will work on any CSV file of some particular format. There
 is also a one page interface created to store the file in S3 database, so that
 Alexa will be able to use it and all this happens in real time. Further user
-can save those ltered data in data file in S3 and can view it later on.
+can save that filtered data in data file in S3 and can view it later on.
