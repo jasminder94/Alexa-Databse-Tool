@@ -12,7 +12,7 @@ back-end code. Our application totally works using cloud-based services. A
 voice-based application which can converse with user is made and it acts as
 a database search tool which can allter the data on the basis of user input.
 With the advancement in Artificial Intelligence and Machine learning, there
-is a signicant growth in Natural language processing and that makes our
+is a significant growth in Natural language processing and that makes our
 machines really smart and convenient to interact with users . NLP is
 the cognitive computing component focused on linguistics and language's
 classification and makes Alexa more easy to understand human spoken words.
