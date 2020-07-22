@@ -18,6 +18,5 @@ the cognitive computing component focused on linguistics and language's
 classification and makes Alexa more easy to understand human spoken words.
 It helps the machines to learn fast with time. This application is mostly data
 independent and will work on any CSV file of some particular format. There
-is also a one page interface created to store the file in S3 database, so that
-Alexa will be able to use it and all this happens in real time. Further user
-can save that filtered data in data file in S3 and can view it later on.
+is also a interface created to upload the file in S3 database, so that
+Alexa will be able to use it. Further user can save that filtered data in data file in S3 and can view it later on.
